@@ -1,5 +1,7 @@
 # Architecture-des-ordinateurs
+# NB: Rename code and files before sharing
 Projets réalisés en Automne 2022
+
 
 Logiciel : MPLAB X IDE (v 5.35)
 
