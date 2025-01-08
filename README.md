@@ -1,6 +1,8 @@
 # Architecture-des-ordinateurs
 Projets réalisés en Automne 2022
 
+Logiciel : MPLAB X IDE (v 5.35)
+
 1. Système de contrôle pour un feu de circulation
 
 •	Objectif : Concevoir un prototype fonctionnel pour un système de contrôle de feu de circulation basé sur un microcontrôleur PIC 18F4680.
