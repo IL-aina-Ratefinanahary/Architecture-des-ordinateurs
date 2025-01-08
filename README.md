@@ -1,11 +1,11 @@
 # Architecture-des-ordinateurs
-# NB: Rename code and files before sharing
+# NB: Review code and files before sharing
 Projets réalisés en Automne 2022
 
 
 Logiciel : MPLAB X IDE (v 5.35)
 
-1. Système de contrôle pour un feu de circulation
+1. Système de contrôle pour un feu de circulation (T1.rar)
 
 •	Objectif : Concevoir un prototype fonctionnel pour un système de contrôle de feu de circulation basé sur un microcontrôleur PIC 18F4680.
 
@@ -16,9 +16,9 @@ Logiciel : MPLAB X IDE (v 5.35)
     o	Test du programme sur simulateur MPLAB X, suivi d'une validation sur un microcontrôleur réel.
     o	Intégration de variables modifiables pour ajuster dynamiquement les délais des différentes lumières
     
-2. Modification d’un fichier exécutable avec un désassembleur
+2. Modification d’un fichier exécutable (.exe) avec un désassembleur x64dbg (T2.rar)
 
-•	Objectif : Développer des compétences en ingénierie inverse en utilisant un désassembleur pour modifier un programme.
+•	Objectif : Développer des compétences en ingénierie inverse (reverse engeneering) en utilisant un désassembleur pour modifier un programme.
 
 •	Détails :
 
@@ -27,7 +27,7 @@ Logiciel : MPLAB X IDE (v 5.35)
     o	Remplacement d'une chaîne de caractères dans l'exécutable pour afficher un message personnalisé dans l'interface utilisateur.
     o	Exploration des concepts de « code caves » pour insérer de nouvelles instructions sans affecter l'intégrité du programme
     
-3. Multiplication en virgule flottante (IEEE 754)
+3. Multiplication en virgule flottante (IEEE 754) (T3.zip)
 
 •	Objectif : Implémenter une routine en assembleur pour multiplier deux nombres en format IEEE 754.
 
@@ -38,7 +38,7 @@ Logiciel : MPLAB X IDE (v 5.35)
     o	Résultat final respectant la norme IEEE 754 (signe, exposant, fraction).
     o	Tests effectués avec divers scénarios, incluant des nombres positifs et négatifs
     
-4. Gestion des dépassements en virgule flottante
+4. Gestion des dépassements en virgule flottante (T4.zip)
 
 •	Objectif : Améliorer le programme précédent pour détecter et gérer les dépassements (« overflow » et « underflow »).
 
@@ -48,7 +48,7 @@ Logiciel : MPLAB X IDE (v 5.35)
     o	Stockage des erreurs détectées dans des adresses mémoire spécifiques.
     o	Validation des résultats en simulant des dépassements avec des exemples prédéfinis
     
-5. Algorithme de Booth pour la multiplication en complément à 2
+5. Algorithme de Booth pour la multiplication en complément à 2 (T5.zip)
 
 •	Objectif : Implémenter l'algorithme de Booth pour multiplier des nombres sur 8 bits en complément à 2.
 
