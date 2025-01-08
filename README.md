@@ -1,2 +1,4 @@
 # Architecture-des-ordinateurs
-Projets réalisés
+Projets réalisés en Automne 2022
+
+I.R(07/01/2025)
